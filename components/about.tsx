@@ -39,7 +39,7 @@ export default function About() {
             className="relative"
           >
             <div className="aspect-square rounded-lg overflow-hidden bg-gradient-to-br from-pink-200 to-purple-200 shadow-xl">
-              <img src="/images/profile.png" alt="Sakshi Bhirud" className="w-full h-full object-cover" />
+              <img src="/images/profile.jpeg" alt="Sakshi Bhirud" className="w-full h-full object-cover" />
             </div>
             <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-gradient-to-br from-pink-300 to-purple-300 rounded-full opacity-50 blur-xl"></div>
           </motion.div>
